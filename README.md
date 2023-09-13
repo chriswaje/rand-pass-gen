@@ -16,3 +16,5 @@ To use the webpage properly, click the generate button on the screen and answer 
 
 Instructor Diarmuid Murphy for the inspiration on how to use "if" statements to create an array that will contain the used characters and a "for loop" that will give the user a generated password of the desired length. W3Schools was used as a resource guide on how to properly use the "push" method in JavaScript. Developer Mozilla (MDN) gave instruction on how the return function works in Javascript to return a value in functions.
 
+## Link(s)
+
