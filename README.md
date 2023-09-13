@@ -18,3 +18,8 @@ Instructor Diarmuid Murphy for the inspiration on how to use "if" statements to 
 
 ## Link(s)
 
+https://chriswaje.github.io/rand-pass-gen/
+
+## Image(s)
+
+![](images/password-gen.png)
